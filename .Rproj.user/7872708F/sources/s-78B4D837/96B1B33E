@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528218239394.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "96B1B33E",
+    "lastKnownWriteTime" : 1528147812,
+    "last_content_update" : 1528147812,
+    "path" : "G:/DRUGI STOOPIEŃ/warsztaty/warsztatyR/szkolenie-r-basic-master/szkolenie-r-basic-master/R/03_dplyr_tidyr2.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "18"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
